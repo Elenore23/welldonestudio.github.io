@@ -1,10 +1,14 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 description: Deploy and Run Aptos Smart Contract
 keywords: [Deploy and Run, Aptos, Smart Contract]
 ---
 
 # Aptos
+
+## Connect to WELLDONE Code
+
+You can activate the **WELLDONE Code** plugin by accessing this deep link: [WELLDONE Code Remix Plugin](https://remix.ethereum.org/?#activate=wds-code-remix).
 
 ## Create the Project
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 8
 description: Deploy and Run Juno Smart Contract
 keywords: [Deploy and Run, Juno, Smart Contract]
 ---
@@ -9,6 +9,10 @@ keywords: [Deploy and Run, Juno, Smart Contract]
 :::info
 Please refer to [here](https://docs.welldonestudio.io/code/getting-started) to get started.
 :::
+
+## Connect to WELLDONE Code
+
+You can activate the **WELLDONE Code** plugin by accessing this deep link: [WELLDONE Code Remix Plugin](https://remix.ethereum.org/?#activate=wds-code-remix).
 
 ## Create the Project
 

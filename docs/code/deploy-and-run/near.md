@@ -1,10 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 description: Deploy and Run NEAR Smart Contract
 keywords: [Deploy and Run, NEAR, Smart Contract]
 ---
 
 # NEAR
+
+## Connect to WELLDONE Code
+
+You can activate the **WELLDONE Code** plugin by accessing this deep link: [WELLDONE Code Remix Plugin](https://remix.ethereum.org/?#activate=wds-code-remix).
 
 ## Create the Project
 
